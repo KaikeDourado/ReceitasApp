@@ -44,7 +44,7 @@ Passos
 
 1.Clone este repositório:
 
-git clone https://github.com/seu-usuario/outdoor-recipes.git
+git clone https://github.com/KaikeDourado/ReceitasApp.git
 cd outdoor-recipes
 
 2.Instale as dependências:
