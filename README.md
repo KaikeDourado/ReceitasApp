@@ -14,22 +14,12 @@ Estrutura modularizada com componentes reutilizáveis.
 🛠 Tecnologias Utilizadas
 
 React Native
+
 Expo CLI
+
 React Navigation
+
 [JavaScript ES6+]
-
-📁 Estrutura do Projeto
-
-/outdoor-recipes
-  /assets
-  /components
-    RecipeCard.js
-  /data
-    recipes.js
-  /screens
-    HomeScreen.js
-    DetailScreen.js
-  App.js
   
 🚀 Como Rodar o Projeto
 
@@ -37,7 +27,9 @@ Pré-requisitos
 Antes de começar, você precisa ter instalado em sua máquina:
 
 Node.js
+
 Expo CLI
+
 Git
 
 Passos
@@ -59,6 +51,7 @@ expo start
 📱 Navegação
 
 HomeScreen: Exibe a lista de receitas.
+
 DetailScreen: Mostra os detalhes de uma receita selecionada, incluindo ingredientes e modo de preparo.
 
 📄 Dados das Receitas
@@ -66,9 +59,13 @@ DetailScreen: Mostra os detalhes de uma receita selecionada, incluindo ingredien
 As receitas estão armazenadas em data/recipes.js como um array de objetos. Cada objeto contém:
 
 id: Identificador único da receita.
+
 title: Nome da receita.
+
 description: Descrição resumida.
+
 ingredients: Lista de ingredientes.
+
 instructions: Passo a passo do modo de preparo.
 
 🧩 Componentes
